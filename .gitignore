@@ -1,3 +1,5 @@
 *.swp
 __pycache__
 data.sqlite
+data-dev.sqlite
+data-test.sqlite
