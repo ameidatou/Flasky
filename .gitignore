@@ -3,3 +3,5 @@ __pycache__
 data.sqlite
 data-dev.sqlite
 data-test.sqlite
+*.pyc
+*.swo
